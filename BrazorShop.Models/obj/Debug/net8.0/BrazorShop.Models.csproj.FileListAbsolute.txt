@@ -1,0 +1,11 @@
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\bin\Debug\net8.0\BrazorShop.Models.deps.json
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\bin\Debug\net8.0\BrazorShop.Models.dll
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\bin\Debug\net8.0\BrazorShop.Models.pdb
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.AssemblyInfoInputs.cache
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.AssemblyInfo.cs
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.dll
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\refint\BrazorShop.Models.dll
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.pdb
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\ref\BrazorShop.Models.dll
