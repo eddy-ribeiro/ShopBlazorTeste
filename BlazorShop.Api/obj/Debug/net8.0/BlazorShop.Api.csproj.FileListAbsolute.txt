@@ -136,3 +136,4 @@ C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.Api\obj\Debug\net8.0\BlazorShop
 C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.Api\obj\Debug\net8.0\ref\BlazorShop.Api.dll
 C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.Api\bin\Debug\net8.0\BrazorShop.Models.dll
 C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.Api\bin\Debug\net8.0\BrazorShop.Models.pdb
+C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.Api\obj\Debug\net8.0\BlazorShop.Api.sourcelink.json

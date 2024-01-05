@@ -1038,3 +1038,4 @@ C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.web\bin\Debug\net8.0\BrazorShop
 C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.web\obj\Debug\net8.0\webcil\BrazorShop.Models.wasm
 C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.web\obj\Debug\net8.0\compressed\r45ipg6llt.gz
 C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.web\obj\Debug\net8.0\compressed\kbsx4cur1f.gz
+C:\Users\Eddy\source\repos\BlazorShop\BlazorShop.web\obj\Debug\net8.0\BlazorShop.web.sourcelink.json

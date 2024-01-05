@@ -9,3 +9,4 @@ C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorS
 C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\refint\BrazorShop.Models.dll
 C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.pdb
 C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\ref\BrazorShop.Models.dll
+C:\Users\Eddy\source\repos\BlazorShop\BrazorShop.Models\obj\Debug\net8.0\BrazorShop.Models.sourcelink.json
