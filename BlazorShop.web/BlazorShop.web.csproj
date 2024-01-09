@@ -15,4 +15,8 @@
     <ProjectReference Include="..\BrazorShop.Models\BrazorShop.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Imagens\Games\" />
+  </ItemGroup>
+
 </Project>
